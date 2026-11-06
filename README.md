@@ -1,5 +1,4 @@
 # project-b--Lagos-state-traffic-analysis
-this is analysis of lagos traffic year 2026
 LAGOS STATE TRAFFIC ANALYSIS & MOBILITY INTELLIGENCE
 Capstone Project Report 
 1. Executive Summary
